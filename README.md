@@ -23,8 +23,4 @@ This is a simple web application that generates random quotes using an external 
 
 This project uses the [Quotable API](https://github.com/lukePeavey/quotable) to fetch random quotes.
 
-## Author
-
-[swati-204](https://github.com/yourusername)
-
 Feel free to reach out to me if you have any questions or suggestions!
