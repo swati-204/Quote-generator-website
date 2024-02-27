@@ -25,6 +25,6 @@ This project uses the [Quotable API](https://github.com/lukePeavey/quotable) to 
 
 ## Author
 
-[Swati](https://github.com/yourusername)
+[Swati-204](https://github.com/yourusername)
 
 Feel free to reach out to me if you have any questions or suggestions!
